@@ -1,0 +1,6 @@
+/vendor/
+commit-for-now.sh
+
+
+*.log
+*.swp
